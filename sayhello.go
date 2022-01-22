@@ -1,5 +1,7 @@
-package main
+package gomodulesayhello
 
-func main() {
-	
+import "fmt"
+
+func sayhello() {
+	fmt.Println("Hello")
 }
