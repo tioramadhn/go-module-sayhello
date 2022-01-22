@@ -2,6 +2,6 @@ package gomodulesayhello
 
 import "fmt"
 
-func sayhello() {
+func SayHello() {
 	fmt.Println("Hello")
 }
